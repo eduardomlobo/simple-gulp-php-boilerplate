@@ -1,0 +1,35 @@
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+
+// Descrptive color variables
+
+$white              : #fff;
+$black              : #000;
+$red 								: #be1522;
+
+// Functional color variables
+
+$primary-color    	: $red;
+
+// Font Stacks
+
+$stack-sans-serif : Helvetica, sans-serif;
+$stack-open-sans : 'Open Sans', Helvetica, sans-serif;
+
+// Functional Font
+
+$primal-fontstack 		: $stack-sans-serif;
+$titles-fontstack 		: $stack-sans-serif;
+
+// Media queries
+
+$mobile: "(max-width: 47.9375em)";
+$mobile-large: "(min-width: 23.4375em)";
+$tablet: "(min-width: 48em)";
+$desktop: "(min-width: 64em)";
+
+$mobile-landscape: "(min-height: 580px) and (max-width: 48em)";
+
+$retina2x: "only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx)";
+$retina3x: "only screen and (-o-min-device-pixel-ratio: 9/4), only screen and (-webkit-min-device-pixel-ratio: 2.25), only screen and (min-device-pixel-ratio: 2.25), only screen and (min-resolution: 2.25dppx) ";
