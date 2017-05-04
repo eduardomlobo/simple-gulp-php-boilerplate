@@ -1,11 +1,7 @@
 ## Synopsis
 
-Solcom S.L. boilerplate
+A starting template to develop simple apps with php and javascript.
 
 ## Installation
 
 npm install
-
-## License
-
-Copyright 2015 Solcom S.L.
